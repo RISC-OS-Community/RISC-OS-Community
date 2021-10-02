@@ -1,5 +1,5 @@
 # RISC-OS-Community on GitHub
-This is a project to collect, develop, restore and improve code and software written for the RISC OS Operanting System.
+This is a project to collect, develop, restore, preserve and improve code and software written for the RISC OS Operanting System in the form of Open Source projects.
 
 ## Goals
 1) Porting Open Source libraries and code from other Operating Systems to RISC OS
