@@ -5,7 +5,7 @@ This is a project to collect, develop, restore, preserve and improve code and so
 1) Porting Open Source libraries and code from other Operating Systems to RISC OS
 2) Create coding tutorials with practical examples to help people who are interested to learn how to code on RISC OS
 3) Help RISC OS to become more and more a fully Open Source platform
-4) Increase the things that can be done on the historical OS written by Acorn Computers back in the 80s for the ARM CPU and still maintained and improved to this date
+4) Increase the things that can be done on the historical OS written by Acorn Computers back in the 80s for the ARM CPU and still maintained and improved to this date by RISC OS Developments and RISC OS Open organisations.
 5) Have fun coding and spreading the fun to new generations interested in learning about this OS
 6) Helping professionals to deliver better software on RISC OS so that the user base can enjoy more powerful and features-rich applications
 
@@ -30,7 +30,7 @@ Whoeever is available in the appropriate team can pick up the task and work on i
 To work on a task make sure you read the Contributing guidelines you'll find in each project.
 
 ## How to submit my old code?
-Read the Example Repository instruction syou can find [here](https://github.com/RISC-OS-Community/ExampleRepository)
+Read the Example Repository instructions you can find [here](https://github.com/RISC-OS-Community/ExampleRepository)
 
 ## How do to join?
 take a project and read the Contributing guide lines (instructions to join are there). Before you decide to join make sure you have read and accept the Code of Conduct which we all have to follow to ensure a safe and happy community :)
