@@ -69,8 +69,23 @@ Please make sure you have a github account before you start. Also we recommend t
 
 - [Create a github account](https://github.com/join)
 - [Add an RSA key to your github account](https://docs.github.com/en/github/authenticating-to-github/adding-a-new-ssh-key-to-your-github-account)
-- [It's a good practice to protect your accoutn by adding 2 factors authentication](https://docs.github.com/en/github/authenticating-to-github/configuring-two-factor-authentication)
-- [Join RISC OS Community, by filling up this form and give us your github account name and what type of contribution you would like to purse](https://paolozaino.wordpress.com/contact/)
+- [It's a good practice to protect your account by adding 2 factors authentication](https://docs.github.com/en/github/authenticating-to-github/configuring-two-factor-authentication)
+
+## How to join this community
+To provide fixes and improvement to code, you do not necessarly need to join, however if you want to help by reviewing code or other more involved tasks or just be part of one of the team to quickly pick an issue to work on, you'll need to join the community.
+
+To join, make sure you have your pre-requisites in place and then use the link [here](https://paolozaino.wordpress.com/contact/) to let us know you want to join.
+
+In the request specify your github account username and which teams you would like to join between:
+
+- Admin Team
+- Code Reviews Team
+- Dev Team
+- Docs Team
+- Grapchics Design Team
+- Audio Design Team
+
+I you want, you can request to join multiple teams.
 
 ## Contributing to this project/repository
 To contribute is fairly easy:
