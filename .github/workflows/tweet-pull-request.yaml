@@ -1,0 +1,26 @@
+---
+name: Notify twitter of new Pull Request
+
+on:
+  # Run on Pull requests:
+  pull_request:
+    branches: [ main ]
+
+  # Run when manually triggered
+  workflow_dispatch:
+
+env:
+  THIS_REPO: ${{ github.repository }}
+
+jobs:
+  tweet:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: ethomson/send-tweet-action@v1
+        with:
+          status: "🎉 New Pull Request in ${{ env.THIS_REPO }}! You can check it out here: https://github.com/${{ env.THIS_REPO }} #RISC_OS #RISCOS #ROCOnGitHub #OpenSource #DevCommunity" 
+          consumer-key: ${{ secrets.TWITTER_CONSUMER_API_KEY }}
+          consumer-secret: ${{ secrets.TWITTER_CONSUMER_API_SECRET }}
+          access-token: ${{ secrets.TWITTER_ACCESS_TOKEN }}
+          access-token-secret: ${{ secrets.TWITTER_ACCESS_TOKEN_SECRET }}
+
