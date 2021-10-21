@@ -31,14 +31,19 @@ It's simple, all projects are publicly discussed. When tasks are decided they ge
 
 Whoeever is available in the appropriate team can pick up the task and work on it.
 
-To work on a task make sure you read the Contributing guidelines you'll find in each project.
+To work on a task make sure you read the [Contributing guidelines](./CONTRIBUTING.md) you'll find in each project.
 
-If one is not part of the community and still want to take a task, just tag the corresponded issue, so we know you are working on it, fork the repo, do your changes following the contributing guide and then submit a PR for review. Before opening a PR make sure your changes pass the old tests and make sure you ad dnew tests for us to verify your changes please.
+### Ok, but what if I want to do a change without being an active part of th ecommunity?
+If one is not part of the community and still wants to take a task, just tag the corresponded issue, so we know you are working on it, fork the repo, do your changes following the contributing guide and then submit a PR for review. Before opening a PR make sure your changes pass the old tests and make sure you ad dnew tests for us to verify your changes please.
 
 ## How to submit my old code?
 Read the Example Repository instructions you can find [here](https://github.com/RISC-OS-Community/ExampleRepository)
 
 ## How do to join?
-Take a project and read the Contributing guide lines (instructions to join are there). Before you decide to join make sure you have read and accept the Code of Conduct which we all have to follow to ensure a safe and happy community :)
+Have a look at the [Contributing document here](./CONTRIBUTING.md) section "How to join"
+
+The Contributing doucment can be found also in each project as well. 
+
+Before you decide to join or to contribute make sure you have read and accept the [Code of Conduct](./CODE_OF_CONDUCT.md) which we all have to follow to ensure a safe and happy community :)
 
 Thanks for reading and for your interest in Open Source and RISC OS!
