@@ -8,6 +8,8 @@ This is a project to collect, develop, restore, preserve and improve code and so
 4) Increase the things that can be done on the historical OS written by Acorn Computers back in the 80s for the ARM CPU and still maintained and improved to this date by RISC OS Developments and RISC OS Open organisations.
 5) Have fun coding and spreading the fun to new generations interested in learning about this OS
 6) Helping professionals to deliver better software on RISC OS so that the user base can enjoy more powerful and features-rich applications
+7) Collect and preserve old code for RISC OS and modernise it to run aon newer release as well as being distributed via RiscPkg
+8) Follow best standards and guidelines to ensure best quality possible and highest degree of security achievable on RISC OS platform
 
 ## Who is it for?
 This community is for everyone interested in RISC OS, ARM and Open Source.
