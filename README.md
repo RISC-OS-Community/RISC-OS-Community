@@ -40,9 +40,9 @@ If one is not part of the community and still wants to take a task, just tag the
 Read the Example Repository instructions you can find [here](https://github.com/RISC-OS-Community/ExampleRepository)
 
 ## How do to join?
-Have a look at the [Contributing document here](./CONTRIBUTING.md) section "How to join"
+Have a look at the [Contributing document here](./CONTRIBUTING.md), section "How to join".
 
-The Contributing doucment can be found also in each project as well. 
+The Contributing doucment can be found also on each project repository as well. 
 
 Before you decide to join or to contribute make sure you have read and accept the [Code of Conduct](./CODE_OF_CONDUCT.md) which we all have to follow to ensure a safe and happy community :)
 
