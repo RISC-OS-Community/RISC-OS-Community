@@ -14,6 +14,8 @@ This community is for everyone interested in RISC OS, ARM and Open Source.
 
 Everyone can join and be part of it, not just developers.
 
+If someone needs to fix something and is not part of the community, that is OK too. but make sure you follow our contributing guidelines and you run tests before you open a PR. If you are adding code/features make sure you also add tests to test your feature.
+
 ## How does it work?
 It's simple, all projects are publicly discussed. When tasks are decided they get assigned to one of the following teams:
 
@@ -28,6 +30,8 @@ It's simple, all projects are publicly discussed. When tasks are decided they ge
 Whoeever is available in the appropriate team can pick up the task and work on it.
 
 To work on a task make sure you read the Contributing guidelines you'll find in each project.
+
+If one is not part of the community and still want to take a task, just tag the corresponded issue, so we know you are working on it, fork the repo, do your changes following the contributing guide and then submit a PR for review. Before opening a PR make sure your changes pass the old tests and make sure you ad dnew tests for us to verify your changes please.
 
 ## How to submit my old code?
 Read the Example Repository instructions you can find [here](https://github.com/RISC-OS-Community/ExampleRepository)
