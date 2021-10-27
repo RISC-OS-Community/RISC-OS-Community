@@ -34,7 +34,7 @@ Whoever is available in the appropriate team can pick up the task and work furth
 When working on a task, be sure to read the relevant [Contributing guidelines](./CONTRIBUTING.md) found in each project for details of any specific requirements.
 
 ### Ok, but what if I want to do a change without being an active part of the community?
-If a prospective contributor is not part of the community and still wants to take a task, just tag the corresponded issue, so that the community members know you are working on it. Fork the repo; do your changes following the contributing guide; then submit a PR for review. Before opening a PR make sure your changes pass the old tests. Please also ensure that tests are added/updated as part of the contribution to enable ongoing verification of these changes.
+If a prospective contributor is not part of the community and still wants to take a task, just tag the corresponded issue, so that the community members know you are working on it. Fork the repo; make your changes following the contributing guide; then submit a PR for review. Before opening a PR make sure your changes pass the old tests. Please also ensure that tests are added/updated as part of the contribution to enable ongoing verification of these changes.
 
 ## How to submit my old code?
 Read the instructions in the [Example Repository here](https://github.com/RISC-OS-Community/ExampleRepository)
