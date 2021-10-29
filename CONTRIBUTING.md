@@ -69,8 +69,23 @@ Please make sure you have a github account before you start. Also we recommend t
 
 - [Create a github account](https://github.com/join)
 - [Add an RSA key to your github account](https://docs.github.com/en/github/authenticating-to-github/adding-a-new-ssh-key-to-your-github-account)
-- [It's a good practice to protect your accoutn by adding 2 factors authentication](https://docs.github.com/en/github/authenticating-to-github/configuring-two-factor-authentication)
-- [Join RISC OS Community, by filling up this form and give us your github account name and what type of contribution you would like to purse](https://paolozaino.wordpress.com/contact/)
+- [It's a good practice to protect your account by adding 2 factors authentication](https://docs.github.com/en/github/authenticating-to-github/configuring-two-factor-authentication)
+
+## How to join this community
+To provide fixes and improvement to code, you do not necessarily need to join, however if you want to help by reviewing code or other more involved tasks or just be part of one of the team to quickly pick an issue to work on, you'll need to join the community.
+
+To join, make sure you have your pre-requisites in place and then use the link [here](https://paolozaino.wordpress.com/contact/) to let us know you want to join.
+
+In the request specify your github account username and which teams you would like to join between:
+
+- Admin Team
+- Code Reviews Team
+- Dev Team
+- Docs Team
+- Graphics Design Team
+- Audio Design Team
+
+I you want, you can request to join multiple teams.
 
 ## Contributing to this project/repository
 To contribute is fairly easy:
@@ -87,7 +102,7 @@ In general you'd want to:
   - Create your branch using: `git branch -b branch-name`
     - we suggest that you name your branches following this pattern: `your_nick-what_type_of_changes_you_are_applying` with no spaces, you can use either dash or underscore to your preference
 * If instead you want to use Forking:
-  - Fork a repo from here to your guthub account. If you're not familiar with forking then [here there are useful info for you](https://docs.github.com/en/github/getting-started-with-github/fork-a-repo)
+  - Fork a repo from here to your github account. If you're not familiar with forking then [here there are useful info for you](https://docs.github.com/en/github/getting-started-with-github/fork-a-repo)
 * Start adding your changes
   - If you need on-line RISC OS documentation you can find it [here](https://www.riscosopen.org/wiki/documentation/show/HomePage)
   - Where applicable stick to RISC OS Style guide
@@ -98,7 +113,7 @@ In general you'd want to:
   - [Official Programmer Documentation from RISC OS Open](https://www.riscosopen.org/wiki/documentation/show/Programmer%20documentation)
   - For changes that may require patching RISC OS Code or modifying RISC OS code in whatever form please also refer to the [Official Developer Documentation from RISC OS Open](https://www.riscosopen.org/wiki/documentation/show/Developer%20documentation)
   - Make sure you keep the documentation and code comments up-to-date with your changes
-* When done with your changes add them to your local git using: `git add ./what-you-chaged`
+* When done with your changes add them to your local git using: `git add ./what-you-changed`
 * Commit your changes using: `git commit -m "commit message"`
   - Make sure your commit messages are clear and meaningful to help reviewers to understand what you were trying to achieve
   - When possible try to make small commits and Pull Requests so that the review process can be quicker
@@ -108,15 +123,15 @@ In general you'd want to:
 
 # Coding Style for C Developers
 
-One of the best an dmost complete C Coding style guide is the Linux Kernel C Coding Style Guide. So, for all general C related coding you should follow such set of rules (learning it can also help you a lot in your Software Engineering career), here is the Linux Coding Style guide for you: [Linux Coding Style Guide](https://www.kernel.org/doc/html/v5.10/process/coding-style.html).
+One of the best and most complete C Coding style guide is the Linux Kernel C Coding Style Guide. So, for all general C related coding you should follow such set of rules (learning it can also help you a lot in your Software Engineering career), here is the Linux Coding Style guide for you: [Linux Coding Style Guide](https://www.kernel.org/doc/html/v5.10/process/coding-style.html).
 
-Given that RISC OS is not linux and has its own ToolBox you shall consider all colliding rules to be superseeded by the corresponding rule in the RISC OS Style Guide, here is a link to how to obtain it: [RISC OS Style Guide](https://www.riscosopen.org/wiki/documentation/show/Style%20Guide)
+Given that RISC OS is not linux and has its own ToolBox you shall consider all colliding rules to be superseded by the corresponding rule in the RISC OS Style Guide, here is a link to how to obtain it: [RISC OS Style Guide](https://www.riscosopen.org/wiki/documentation/show/Style%20Guide)
 
 Also please have a look at the Programming Conventions hosted on RISCOS.info, [click here to read them](http://www.riscos.info/index.php/Programming_Conventions)
 
 ROOL DDE Compiler support C89 and C99 (and they started to add support for C11), so, if you need, [here](http://www.sourceformat.com/pdf/c-standard-international.pdf) you can find a good C99 standard guide (precisely the Committee Draft — May 6, 2005 ISO/IEC 9899:TC2) you can use as reference while coding.
 
-If instead you prefer to use GCC, RISC OS has ative support for GCC 4 and the GCCSDK Project (building C code for RISC OS using GCC on Linux) support GCC 4, GCC 8 and they started to add GCC 10. You can fin dmor einfo on about this on [RISCOS.info](https://www.riscos.info/index.php/Cross-compiling_software_with_GCCSDK)
+If instead you prefer to use GCC, RISC OS has native support for GCC 4 and the GCCSDK Project (building C code for RISC OS using GCC on Linux) support GCC 4, GCC 8 and they started to add GCC 10. You can find more info on about this on [RISCOS.info](https://www.riscos.info/index.php/Cross-compiling_software_with_GCCSDK)
 
 # Extra info for BBC BASIC developers
 
