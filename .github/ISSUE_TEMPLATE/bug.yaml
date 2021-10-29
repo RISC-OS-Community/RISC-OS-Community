@@ -59,7 +59,7 @@ body:
   - type: dropdown
     id: platform
     attributes:
-      label: Platfrom
+      label: Platform
       description: Which platform are you running RISC OS on?
       options:
         - Acorn A3000 (with ARM 3)
@@ -79,6 +79,7 @@ body:
         - Elesar Titanium
         - PandaBoard
         - PandaBoard ES
+        - Raspberry Pi 0 all models
         - Raspberry Pi 1 model A or B
         - Raspberry Pi 2 all models
         - Raspberry Pi 3B+
