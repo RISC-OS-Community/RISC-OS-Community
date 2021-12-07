@@ -1,4 +1,9 @@
 # RISC-OS-Community on GitHub
+<p align="right">
+    <a href="https://twitter.com/RISCOSOnGitHub"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+    <a href="https://www.facebook.com/RISC-OS-Community-on-GitHub-103132562122756"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+    <a href="https://youtube.com/channel/UCaxRPTbwoB6IHo7vFLMm4Rw"><img src="https://img.shields.io/youtube/channel/views/UCaxRPTbwoB6IHo7vFLMm4Rw?style=social" /></a>
+</p>
 This is a project to collect, develop, restore, preserve and improve code and software written for the RISC OS Operating System in the form of Open Source projects.
 
 ## Goals
@@ -47,3 +52,11 @@ The Contributing document can be found also on each project repository as well.
 Before deciding to join or to contribute, please make sure you have read and accept our [Code of Conduct](./CODE_OF_CONDUCT.md) which we all have to follow to ensure a safe and happy community :)
 
 Thanks for reading and for your interest in Open Source and RISC OS!
+
+Please, check out also our social media profiles for more info, videos about RISC OS and how to use it, technical details and our news:
+<p align="right">
+    <a href="https://twitter.com/RISCOSOnGitHub"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+    <a href="https://www.facebook.com/RISC-OS-Community-on-GitHub-103132562122756"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+    <a href="https://youtube.com/channel/UCaxRPTbwoB6IHo7vFLMm4Rw"><img src="https://img.shields.io/youtube/channel/views/UCaxRPTbwoB6IHo7vFLMm4Rw?style=social" /></a>
+</p>
+
