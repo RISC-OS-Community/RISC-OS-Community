@@ -16,6 +16,8 @@ tests/**/Hdr/** gitlab-language=armasm linguist-language=assembly linguist-detec
 tests/**/s/** gitlab-language=armasm linguist-language=assembly linguist-detectable=true
 tests/**/fth/** gitlab-language=forth linguist-language=forth linguist-detectable=true
 tests/**/p/** gitlab-language=prolog linguist-language=prolog linguist-detectable=true
-**,fe1 gitlab-language=make linguist-language=makefile
-**,fff gitlab-language=text linguist-language=text
+**,fe1 gitlab-language=make linguist-language=makefile linguist-detectable=true
+**,fff gitlab-language=text linguist-language=text linguist-detectable=true
+**,ffb gitlab-language=bbcbasic linguist-language=bbcbasic linguist-detectable=true
 VersionNum gitlab-language=c linguist-language=c
+
