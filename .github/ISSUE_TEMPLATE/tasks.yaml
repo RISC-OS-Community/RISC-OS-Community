@@ -31,8 +31,8 @@ body:
     attributes:
       label: Definition of Done
       description: Provide an easy to understand definition of done for each task
-      placeholder: "[] A"
-      value: "[] Task A is done when..."
+      placeholder: "- [ ] A"
+      value: "- [ ] Task A is done when..."
     validations:
       required: false
   - type: checkboxes
