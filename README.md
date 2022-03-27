@@ -71,6 +71,8 @@ Before deciding to join or to contribute, please make sure you have read and acc
 
 Thanks for reading and for your interest in Open Source and RISC OS!
 
+**If you have more questions or if you want to know more about this community, please check out our Wiki [here](https://github.com/RISC-OS-Community/RISC-OS-Community/wiki)**
+
 Please, check out also our social media profiles for more info, videos about RISC OS and how to use it, technical details and our news:
 
 <p align="right">
