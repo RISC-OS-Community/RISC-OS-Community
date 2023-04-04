@@ -4,7 +4,7 @@
     <a href="https://twitter.com/RISCOSOnGitHub"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
     <a href="https://www.facebook.com/RISC-OS-Community-on-GitHub-103132562122756"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
     <!-- <a href="https://youtube.com/channel/UCaxRPTbwoB6IHo7vFLMm4Rw"><img src="https://img.shields.io/youtube/channel/views/UCaxRPTbwoB6IHo7vFLMm4Rw?style=social" /></a> //-->
-    <a href="https://www.youtube.com/channel/UCr4zW_z3WfBVBha3droh_rQ"><img src="https://img.shields.io/youtube/channel/views/UCr4zW_z3WfBVBha3droh_rQ?style=social" /></a>
+    <a href="https://www.youtube.com/channel/UCr4zW_z3WfBVBha3droh_rQ"><img src="https://img.shields.io/youtube/channel/views/UCr4zW_z3WfBVBha3droh_rQ?style=for-the-badge" /></a>
 </p>
 
 This is a project to collect, develop, restore, preserve and improve code and software written for the RISC OS Operating System in the form of Open Source projects.
@@ -79,5 +79,5 @@ Please, check out also our social media profiles for more info, videos about RIS
 <p align="right">
     <a href="https://twitter.com/RISCOSOnGitHub"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
     <a href="https://www.facebook.com/RISC-OS-Community-on-GitHub-103132562122756"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-    <a href="https://www.youtube.com/channel/UCr4zW_z3WfBVBha3droh_rQ"><img src="https://img.shields.io/youtube/channel/views/UCr4zW_z3WfBVBha3droh_rQ?style=social" /></a>
+    <a href="https://www.youtube.com/channel/UCr4zW_z3WfBVBha3droh_rQ"><img src="https://img.shields.io/youtube/channel/views/UCr4zW_z3WfBVBha3droh_rQ?style=for-the-badge" /></a>
 </p>
