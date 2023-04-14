@@ -6,6 +6,12 @@
     <a href="https://www.youtube.com/channel/UCr4zW_z3WfBVBha3droh_rQ"><img src="https://img.shields.io/youtube/channel/views/UCr4zW_z3WfBVBha3droh_rQ?label=YouTube%20views&style=for-the-badge" /></a>
 </p>
 
+## TL;DR
+
+This is a completely no profit group that uses and promotes RISC OS for fun and educational purposes only.
+
+## Full description
+
 This is a project to collect, develop, restore, preserve and improve code and software written for the RISC OS Operating System in the form of Open Source projects.
 
 ## Goals
